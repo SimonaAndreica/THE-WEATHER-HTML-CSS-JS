@@ -10,3 +10,4 @@ I used this key from the official OpenWeatherMap website for free. After I regis
 
  ### Source:
  * [API](https://darksky.net/dev)
+ * [FONTS](https://fonts.google.com/);
